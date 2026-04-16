@@ -1,5 +1,6 @@
 # student-performance-predictor
 Machine learning-based system to predict student academic performance using academic and behavioral data, with data visualization for actionable insights.
+
 🎓 Student Performance Predictor
 A smart machine learning system designed to predict student academic performance using a combination of academic, behavioral, and lifestyle factors. The project focuses on generating accurate predictions as well as meaningful insights to support better academic decision-making.
 Project Overview
@@ -44,6 +45,7 @@ Workflow
 6. Model Evaluation
 7. Visualization & Insights
 Model Performance
+
 🔹 Logistic Regression
 * Accuracy: **94.5%**
 * Strong balance between precision and recall
