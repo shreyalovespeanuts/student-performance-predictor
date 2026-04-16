@@ -54,9 +54,10 @@ Model Performance
 🔹 Logistic Regression
 * Accuracy: **94.5%**
 * Strong balance between precision and recall
-
+```id="dt_cr"
 Class 0 → Precision: 0.81 | Recall: 0.79 | F1-score: 0.80  
-Class 1 → Precision: 0.97 | Recall: 0.97 | F1-score: 0.97  
+Class 1 → Precision: 0.97 | Recall: 0.97 | F1-score: 0.97
+``` 
 🔹 Decision Tree
 * Accuracy: **90.5%**
 * Slightly lower performance due to overfitting tendencies
