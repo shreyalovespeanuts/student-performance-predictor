@@ -48,6 +48,7 @@ Workflow
 5. Model Training
 6. Model Evaluation
 7. Visualization & Insights
+   
 Model Performance
 
 🔹 Logistic Regression
@@ -66,10 +67,7 @@ Class 1 → Precision: 0.95 | Recall: 0.94 | F1-score: 0.94
 * Accuracy: **94.0%**
 * High recall for majority class and robust performance
 Confusion Matrix:
-```id="rf_cm"
-[[17 11]
- [ 1 171]]
-```
+
 Classification Report:
 ```id="rf_cr"
 Class 0 → Precision: 0.94 | Recall: 0.61 | F1-score: 0.74  
@@ -107,5 +105,13 @@ Future Improvements
 * Kaggle for dataset
 * Open-source ML community
 * Educational Data Mining research
+
+🗂️ Dataset  
+
+- Source: Kaggle  
+- Dataset: Student Habits vs Academic Performance  
+- Link: https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance  
+
+This dataset includes both academic and lifestyle features such as study hours, attendance, sleep patterns, social media usage, and mental health indicators, enabling a comprehensive analysis of student performance.
 
 ⭐ If you found this project useful, consider giving it a star!
