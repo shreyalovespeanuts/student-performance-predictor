@@ -91,18 +91,18 @@ student-performance-predictor/
 │
 ├── student-performance-predictor.ipynb
 ├── README.md
-├── requirements.txt
-└── .gitignore
 ```
 Future Improvements
 * Deploy as a full interactive web application
 * Integrate real-time student data input
 * Apply advanced models (XGBoost, Neural Networks)
 * Add recommendation system for students
+  
 👩‍💻 Author
 **Shreya Samadhiya**
 * B.Tech CSE (3rd Year)
 * Interested in Data Analytics, UI/UX, and Product Development
+  
 ⭐ Acknowledgements
 * Kaggle for dataset
 * Open-source ML community
