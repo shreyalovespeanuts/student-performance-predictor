@@ -2,6 +2,7 @@
 Machine learning-based system to predict student academic performance using academic and behavioral data, with data visualization for actionable insights.
 
 🎓 Student Performance Predictor
+
 A smart machine learning system designed to predict student academic performance using a combination of academic, behavioral, and lifestyle factors. The project focuses on generating accurate predictions as well as meaningful insights to support better academic decision-making.
 Project Overview
 Educational institutions often rely only on academic scores to evaluate students. However, real performance depends on multiple factors such as study habits, lifestyle, and mental health.
@@ -27,6 +28,7 @@ Dataset
   * Social media usage
   * Mental health rating
   * Exam scores
+    
    The dataset combines both academic and lifestyle attributes to provide a holistic understanding of performance.
 Tech Stack
 * **Language:** Python
