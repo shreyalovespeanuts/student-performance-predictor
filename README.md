@@ -30,6 +30,7 @@ Dataset
   * Exam scores
     
    The dataset combines both academic and lifestyle attributes to provide a holistic understanding of performance.
+  
 Tech Stack
 * **Language:** Python
 * **Libraries:**
